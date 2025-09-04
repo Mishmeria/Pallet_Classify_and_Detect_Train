@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+env/
+
+# Datasets & generated media
+Dataset/
+dataset_split/
+After_train_test_image/
+Failure-Pallet-Detection-2/
+Pallet_3D_model/
+
+# YOLO outputs and weights
+runs/
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
